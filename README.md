@@ -1,7 +1,7 @@
 # BrainBomb
 ## A brainfuck interperter written in python with more brain deleting
 
-###Installation
+### Installation
 download interperter.py and run it
 you can use clasic brainfuck code
 and use BrainBomb's added code
