@@ -11,5 +11,5 @@ and use BrainBomb's added code
 $ - Divides the current cell by one
 ! - clears the current cell
 ^ - multiples the current cell by 2
-# - multiples by one
+hashtag - multiples by one
 @ - useless
